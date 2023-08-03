@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3eaa2b8-ba58-4924-ac19-4c7063a47a56": {
+      "ProjectGuid": "d3eaa2b8-ba58-4924-ac19-4c7063a47a56",
+      "DisplayName": "BLL_TanachLibrary",
+      "ColorIndex": 0
+    },
+    "4b858dba-2bb5-4d95-8be0-a28fd2711cbf": {
+      "ProjectGuid": "4b858dba-2bb5-4d95-8be0-a28fd2711cbf",
+      "DisplayName": "WinformUI",
+      "ColorIndex": 1
+    },
+    "cd24aecb-1a16-4d81-a40f-baaf08e393a7": {
+      "ProjectGuid": "cd24aecb-1a16-4d81-a40f-baaf08e393a7",
+      "DisplayName": "DAL_tanachLibrary",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

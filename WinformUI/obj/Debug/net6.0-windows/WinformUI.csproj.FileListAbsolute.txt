@@ -1,0 +1,108 @@
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.exe
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.deps.json
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.runtimeconfig.json
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\ref\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\BLL_TanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\BLL_TanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.GlobalUsings.g.cs
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.AssemblyReference.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.Form1.resources
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.GenerateResource.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.AssemblyInfoInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.AssemblyInfo.cs
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.CoreCompileInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\ref\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.genruntimeconfig.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\DAL_tanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.Properties.Resources.resources
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.exe
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.deps.json
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.runtimeconfig.json
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\ref\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\BLL_TanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\BLL_TanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\DAL_tanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.GlobalUsings.g.cs
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.AssemblyReference.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.Form1.resources
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.Properties.Resources.resources
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.GenerateResource.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.AssemblyInfoInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.AssemblyInfo.cs
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.CoreCompileInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\ref\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.genruntimeconfig.cache
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.GlobalUsings.g.cs
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.Form1.resources
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.Properties.Resources.resources
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.AssemblyInfo.cs
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\ref\WinformUI.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.pdb
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.exe
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.deps.json
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.runtimeconfig.json
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\ref\WinformUI.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.pdb
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\BLL_TanachLibrary.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\DAL_tanachLibrary.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\BLL_TanachLibrary.pdb
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\DAL_tanachLibrary.pdb
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.genruntimeconfig.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.GlobalUsings.g.cs
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.AssemblyReference.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.Form1.resources
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.Properties.Resources.resources
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.GenerateResource.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.AssemblyInfoInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.AssemblyInfo.cs
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.CoreCompileInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\ref\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 01, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.pdb
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.exe
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.deps.json
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.runtimeconfig.json
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\ref\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\WinformUI.pdb
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\BLL_TanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\BLL_TanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\bin\Debug\net6.0-windows\DAL_tanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.GlobalUsings.g.cs
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.AssemblyReference.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.Form1.resources
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.Properties.Resources.resources
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.GenerateResource.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.AssemblyInfoInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.AssemblyInfo.cs
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.csproj.CoreCompileInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\ref\WinformUI.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.pdb
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\WinformUI\obj\Debug\net6.0-windows\WinformUI.genruntimeconfig.cache

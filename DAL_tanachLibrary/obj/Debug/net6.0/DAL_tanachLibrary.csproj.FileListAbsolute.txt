@@ -1,0 +1,52 @@
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.deps.json
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\ref\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.GlobalUsings.g.cs
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.csproj.AssemblyReference.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.AssemblyInfoInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.AssemblyInfo.cs
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.csproj.CoreCompileInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\ref\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October_19_22\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.deps.json
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\ref\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.GlobalUsings.g.cs
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.csproj.AssemblyReference.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.AssemblyInfoInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.AssemblyInfo.cs
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.csproj.CoreCompileInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\ref\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.pdb
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.deps.json
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\ref\DAL_tanachLibrary.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.pdb
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.GlobalUsings.g.cs
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.AssemblyInfo.cs
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\ref\DAL_tanachLibrary.dll
+C:\Users\Owner\Desktop\tanachProject_October 29, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.deps.json
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\ref\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\bin\Debug\net6.0\DAL_tanachLibrary.pdb
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.GlobalUsings.g.cs
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.csproj.AssemblyReference.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.AssemblyInfoInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.AssemblyInfo.cs
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.csproj.CoreCompileInputs.cache
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\ref\DAL_tanachLibrary.dll
+C:\sarah kayla\Programing\C#\project\tanachProjectNovember 06, 2022\SearchInTanach\DAL_tanachLibrary\obj\Debug\net6.0\DAL_tanachLibrary.pdb

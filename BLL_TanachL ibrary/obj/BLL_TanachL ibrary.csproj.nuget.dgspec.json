@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\sarah kayla\\Programing\\C#\\project\\SearchInTanach\\BLL_TanachL ibrary\\BLL_TanachL ibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\sarah kayla\\Programing\\C#\\project\\SearchInTanach\\BLL_TanachL ibrary\\BLL_TanachL ibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sarah kayla\\Programing\\C#\\project\\SearchInTanach\\BLL_TanachL ibrary\\BLL_TanachL ibrary.csproj",
+        "projectName": "BLL_TanachL ibrary",
+        "projectPath": "C:\\sarah kayla\\Programing\\C#\\project\\SearchInTanach\\BLL_TanachL ibrary\\BLL_TanachL ibrary.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\sarah kayla\\Programing\\C#\\project\\SearchInTanach\\BLL_TanachL ibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
